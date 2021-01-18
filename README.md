@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <br>
   <a target="_blank" href="https://evryn.github.io/vue-modern-resume/">
     <img src="src/assets/logo.png" alt="Markdownify">
@@ -50,4 +50,4 @@ Code is licensed under the [MIT License](LICENSE).
 
 # See Also
 * [ByteGate](https://bytegate.ir/) (our blog)
-* [تبدیل PDF به ورد](http://delix.ir/) (our sponsored service)
+* [تبدیل PDF به ورد](http://delix.ir/) (our sponsored service) -->

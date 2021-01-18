@@ -103,23 +103,23 @@ export default {
           items: [
             {
               icon: 'mdi-github-circle',
-              text: 'github.com/AmirrezaNasiri',
-              link: 'https://github.com/AmirrezaNasiri',
+              text: 'github.com/choirul.dev',
+              link: 'https://github.com/choirul.dev',
             },
             {
               icon: 'mdi-linkedin-box',
-              text: 'linkedin.com/in/amirreza-nasiri',
+              text: 'linkedin.com/id/choirulimamh',
               link: 'https://linkedin.com/in/amirreza-nasiri',
             },
-            {
-              icon: 'mdi-twitter',
-              text: 'twitter.com/Amirreza_Nasiri',
-              link: 'https://twitter.com/Amirreza_Nasiri',
-            },
+            // {
+            //   icon: 'mdi-twitter',
+            //   text: 'twitter.com/Amirreza_Nasiri',
+            //   link: 'https://twitter.com/Amirreza_Nasiri',
+            // },
             {
               icon: 'mdi-instagram',
-              text: 'instagram.com/amirreza.n96',
-              link: 'https://instagram.com/amirreza.n96',
+              text: 'instagram.com/choirulimamh',
+              link: 'https://instagram.com/choirulimamh',
             },
           ],
         },
@@ -181,15 +181,7 @@ export default {
               value: 70,
             },
             {
-              text : 'Turkish',
-              value: 45,
-            },
-            {
-              text : 'Azeri',
-              value: 100,
-            },
-            {
-              text : 'Persian',
+              text : 'Indonesia',
               value: 100,
             },
           ],

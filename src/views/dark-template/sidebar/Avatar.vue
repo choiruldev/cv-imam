@@ -5,7 +5,7 @@
       size="120"
     >
       <img
-        :src="publicPath('/img/avatar.jpg')"
+        :src="publicPath('/img/foto.jpg')"
         alt="Amirrea Nasiri"
       >
     </v-avatar>
